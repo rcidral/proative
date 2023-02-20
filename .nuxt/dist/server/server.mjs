@@ -1,1 +1,0 @@
-export { default } from "file:///home/rcidral/Dev/proative/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
